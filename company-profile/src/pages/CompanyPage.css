@@ -1,0 +1,48 @@
+#opening {
+  background: url("../assets/bgheader.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  padding: 35px;
+}
+
+.welcome-content button {
+  background-color: #193dbc;
+}
+
+#about {
+  background: #0b0b0b;
+  height: max-content;
+  padding: 35px;
+}
+
+.about-caption button {
+  background: #bc7119;
+}
+
+#product {
+  background: #141414;
+  height: max-content;
+  padding: 35px;
+}
+
+#partners {
+  background: #0b0b0b;
+  height: max-content;
+  padding: 35px;
+}
+
+#maps {
+  background: #141414;
+  height: max-content;
+  padding: 35px;
+}
+
+#contact {
+  background: #0b0b0b;
+  height: max-content;
+  padding: 35px;
+}
+
+
